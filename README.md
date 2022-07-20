@@ -1,1 +1,1 @@
-# surya4331-Capstone_Project_IPL_T20_Analysis
+# Capstone_Project_IPL_T20_Analysis
